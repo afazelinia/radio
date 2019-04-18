@@ -1,90 +1,58 @@
 {
-  "_args": [
-    [
-      "react-native-snap-carousel@3.6.0",
-      "D:\\work\\mine\\bazakchi-mobile-unified\\bazak"
-    ]
-  ],
-  "_from": "react-native-snap-carousel@3.6.0",
-  "_id": "react-native-snap-carousel@3.6.0",
+  "_from": "react-native-simple-radio-button",
+  "_id": "react-native-simple-radio-button@2.7.3",
   "_inBundle": false,
-  "_integrity": "sha512-wr1cD8vNvgCaMOK008IRyLyicBDtO/bycCDA7DDtvSO4XEKhAH24SklsAbi/4O4PjOSdUy5emUS8K2VIY0eo5A==",
-  "_location": "/react-native-snap-carousel",
+  "_integrity": "sha512-kiYRarFj7PXzV9fbQwMBiYwS4YnhrR4NZGT68atlFIoNFxZLrt5OMCDqXZqu6R6bUWKLndzPpO/nhXc6/OU1Mg==",
+  "_location": "/react-native-simple-radio-button",
   "_phantomChildren": {},
   "_requested": {
-    "type": "version",
+    "type": "tag",
     "registry": true,
-    "raw": "react-native-snap-carousel@3.6.0",
-    "name": "react-native-snap-carousel",
-    "escapedName": "react-native-snap-carousel",
-    "rawSpec": "3.6.0",
+    "raw": "react-native-simple-radio-button",
+    "name": "react-native-simple-radio-button",
+    "escapedName": "react-native-simple-radio-button",
+    "rawSpec": "",
     "saveSpec": null,
-    "fetchSpec": "3.6.0"
+    "fetchSpec": "latest"
   },
   "_requiredBy": [
+    "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/react-native-snap-carousel/-/react-native-snap-carousel-3.6.0.tgz",
-  "_spec": "3.6.0",
+  "_resolved": "https://registry.npmjs.org/react-native-simple-radio-button/-/react-native-simple-radio-button-2.7.3.tgz",
+  "_shasum": "c7227c0f963d6bbcfa245255d18a5a8b98fde41f",
+  "_spec": "react-native-simple-radio-button",
   "_where": "D:\\work\\mine\\bazakchi-mobile-unified\\bazak",
   "author": {
-    "name": "Archriss",
-    "email": "contact@archriss.com",
-    "url": "github.com/archriss"
+    "name": "moschan",
+    "email": "kota.frsw＠gmail.com",
+    "url": "http://moschan.com/blog/"
   },
-  "dependencies": {
-    "prop-types": "^15.6.0",
-    "react-addons-shallow-compare": "15.6.2"
+  "bugs": {
+    "url": "https://github.com/moschan/react-native-simple-radio-button/issues"
   },
-  "description": "Swiper component for React Native with previews, multiple layouts, parallax images, performant handling of huge numbers of items, and RTL support. Compatible with Android & iOS.",
-  "devDependencies": {
-    "babel-eslint": "^8.2.1",
-    "eslint": "^4.16.0",
-    "eslint-config-standard": "^10.2.1",
-    "eslint-config-standard-react": "^5.0.0",
-    "eslint-plugin-import": "^2.8.0",
-    "eslint-plugin-node": "^5.2.1",
-    "eslint-plugin-promise": "^3.6.0",
-    "eslint-plugin-react": "^7.6.0",
-    "eslint-plugin-standard": "^3.0.1"
-  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "simple and useful animated radio button component for React Native",
+  "homepage": "https://github.com/moschan/react-native-simple-radio-button#readme",
   "keywords": [
-    "react",
-    "native",
-    "carousel",
-    "slider",
-    "swiper",
-    "flatlist",
-    "scrollview",
-    "parallax",
-    "images",
-    "infinite",
-    "scroll",
-    "scrolling",
-    "items",
-    "edge",
-    "snap",
-    "card",
-    "cards",
-    "stack",
-    "deck",
-    "tinder",
-    "android",
+    "react-component",
+    "react-native",
     "ios",
-    "snapping",
-    "component",
-    "rtl"
+    "android",
+    "form",
+    "button",
+    "radio-button"
   ],
-  "license": "BSD-3-Clause",
-  "main": "src/index.js",
-  "name": "react-native-snap-carousel",
-  "peerDependencies": {
-    "react": ">=15.0.0",
-    "react-native": "*"
-  },
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-simple-radio-button",
   "repository": {
     "type": "git",
-    "url": "github.com/archriss/react-native-snap-carousel"
+    "url": "git+https://github.com/moschan/react-native-simple-radio-button.git"
   },
-  "version": "3.6.0"
+  "scripts": {
+    "test": "npm test"
+  },
+  "version": "2.7.3"
 }
